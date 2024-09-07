@@ -1,2 +1,2 @@
 # test-startup1
-https://github.com/nicole-lopes/test-startup1-github.io.git
+https://nicole-lopes.github.io/test-startup1-github.io/
